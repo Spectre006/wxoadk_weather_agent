@@ -5,10 +5,10 @@ Weather AI Agent which provides Weather and Temperate details when user provide 
 orchestrate --help
 
 ## Add Cloud Environment:
-orchestrate env add -n <environment-name> -u <service-instance-url> --type ibm_iam --activate
+orchestrate env add -n <<environment-name>> -u <service-instance-url> --type ibm_iam --activate
 
 ## Activate Environment:
-orchestrate env activate <environment-name>
+orchestrate env activate <<environment-name>>
 
 ## List all Environment Added:
 orchestrate env list
