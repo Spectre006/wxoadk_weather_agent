@@ -1,4 +1,4 @@
-# wxoadk_weather_agent
+# Wastsonx Orchestrate Weather Agent
 Weather AI Agent which provides Weather and Temperate details when user provide name of the city.
 
 ## Help Command to see all available Option
